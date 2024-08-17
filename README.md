@@ -5,7 +5,7 @@ Welcome to my Python Learning Journey repository! This repository is dedicated t
 ## 📚 Resources
 
 ### Video Resource
-- [Python Crash Course by [YouTube Channel Name]](https://www.youtube.com/watch?v=On9eSN3F8w0&t=1000s) - A comprehensive video covering essential Python concepts. 
+- [Python Course]](https://www.udemy.com/share/101W943@p0gGdFg-lfwKcEjcFctf0c-9bQXtY3NEBwXJzmfyulq-dmnbwK-IMKNXqHmcYg66/) - A comprehensive video covering essential Python concepts. 
 
 ## 🚀 Goals
 
